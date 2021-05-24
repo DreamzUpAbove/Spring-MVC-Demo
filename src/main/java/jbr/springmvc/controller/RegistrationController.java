@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import jbr.springmvc.model.User;
 import jbr.springmvc.service.UserService;
-
+//comments added
 @Controller
 public class RegistrationController {
   @Autowired
