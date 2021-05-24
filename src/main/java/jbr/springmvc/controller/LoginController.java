@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 import jbr.springmvc.model.Login;
 import jbr.springmvc.model.User;
 import jbr.springmvc.service.UserService;
-
+//comment by Anaswara
 @Controller
 public class LoginController {
 
