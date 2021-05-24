@@ -14,6 +14,7 @@ import jbr.springmvc.model.Login;
 import jbr.springmvc.model.User;
 import jbr.springmvc.service.UserService;
 //comment by Anaswara
+//comments added for new Dev
 @Controller
 public class LoginController {
 
